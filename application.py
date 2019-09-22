@@ -110,14 +110,14 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations Ramana</h1>
+    <h1>Congratulations This is Awesome Test</h1>
     <p>Your  AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
   </div>
   
   <div class="linksColumn"> 
     <h2>What's Next?</h2>
     <ul>
-    <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
+    <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview - Ramana Test</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/index.html?concepts.html">AWS Elastic Beanstalk concepts</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html">Deploy a Django Application to AWS Elastic Beanstalk</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Python_flask.html">Deploy a Flask Application to AWS Elastic Beanstalk</a></li>
